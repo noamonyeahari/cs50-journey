@@ -1,5 +1,5 @@
-name = "Noam"
+name = input("What is your name? ")
 
-print("Hello, world!")
-print("My name is", name)
-print("I am beginning my Computer Science journey.")
+print("Hello,", name)
+print("Welcome to my CS50 journey!")
+print("I am learning how to think like a programmer.")
